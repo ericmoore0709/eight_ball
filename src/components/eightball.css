@@ -1,0 +1,15 @@
+:root {
+    --size: 300px;
+}
+
+.answer {
+    align-items: center;
+    border-radius: 50%;
+    display: flex;
+    height: var(--size);
+    justify-content: center;
+    margin-inline: auto;
+    font-size: x-large;
+    font-weight: bolder;
+    width: var(--size);
+}
